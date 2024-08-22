@@ -34,3 +34,26 @@ Conjunto de normas criado para proteger os direitos do consumidor, regulamentand
 
 ### Lei
 No contexto do direito digital, uma lei é um conjunto de normas jurídicas estabelecidas por um órgão legislativo competente para regular atividades e comportamentos no ambiente digital. Essas leis visam proteger os direitos dos usuários, garantir a segurança das informações, estabelecer responsabilidades para provedores de serviços e promover um uso ético e seguro da tecnologia. Exemplos incluem a Lei Geral de Proteção de Dados Pessoais (LGPD) e o Marco Civil da Internet.
+
+---
+
+### **Complemento**
+
+#### Contencioso Digital
+Refere-se ao litígio judicial decorrente de violações de direitos em ambientes digitais, como o vazamento de dados ou a violação de direitos autorais online. Profissionais que atuam nessa área precisam de um conhecimento sólido tanto das leis tradicionais quanto das especificidades do direito digital.
+
+#### Consultoria Digital
+A consultoria em direito digital envolve fornecer orientação e estratégias para empresas se adequarem às normas e regulamentações do ambiente digital, como a LGPD. Consultores ajudam a implementar boas práticas de segurança da informação e conformidade legal para evitar riscos e penalidades.
+
+#### Direito Penal Digital
+Área que lida com crimes cometidos no ambiente digital, como fraudes, invasões de sistemas, e sequestro de dados. É uma área em crescente demanda, que exige conhecimento tanto das legislações penais quanto das tecnologias envolvidas.
+
+#### Contratos Digitais
+Criação e gestão de contratos específicos para o ambiente digital, que regulam o uso de software, serviços online, e-commerce, entre outros. Estes contratos garantem que todas as partes envolvidas estejam cientes de seus direitos e obrigações, protegendo as empresas contra litígios futuros.
+
+#### Compliance Digital
+Consiste na adaptação das empresas às normas e regulamentações do ambiente digital, como a LGPD. O objetivo é garantir que todas as operações estejam em conformidade com as leis vigentes, prevenindo sanções e mantendo a reputação da empresa.
+
+---
+
+*Fonte: [Projuris - Direito Digital](https://www.projuris.com.br/blog/direito-digital/)*
