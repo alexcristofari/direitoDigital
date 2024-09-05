@@ -52,7 +52,7 @@ Fonte:
 - [Projuris - Direito Digital](https://www.projuris.com.br/blog/direito-digital/)
 ---
 
-### **Compliance** (em destaque)
+### **Compliance** 
 
 **Compliance** é um termo que vem do inglês "to comply", que significa "cumprir" ou "estar em conformidade". No contexto jurídico e empresarial, **compliance** refere-se ao conjunto de disciplinas que garantem que uma organização esteja cumprindo as leis, regulamentos e normas aplicáveis ao seu setor de atuação.
 Além de atender às exigências legais, o **compliance** também visa assegurar que a empresa adote as melhores práticas éticas e padrões de governança.
